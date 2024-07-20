@@ -246,7 +246,7 @@ table th {
 	flex-wrap: nowrap;
 }
 #left_menu{
-	flex: 20%;
+	flex: 25%;
 	background-color: #2e5e7b;
 	align-items: center;
 	justify-content: center;
@@ -255,7 +255,7 @@ table th {
 #right_menu{
 	display: flex;
 	flex-wrap: nowrap;
-	flex: 80%;
+	flex: 75%;
 	background-color: #2e5e7b;
 	padding: 10px 10px;
 }
