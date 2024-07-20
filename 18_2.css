@@ -250,14 +250,12 @@ table th {
 	background-color: #2e5e7b;
 	align-items: center;
 	justify-content: center;
-	/*padding: 10px 0px 10px 20px;*/
 }
 #right_menu{
 	display: flex;
 	flex-wrap: nowrap;
 	flex: 75%;
 	background-color: #2e5e7b;
-	padding: 10px 10px;
 }
 
 /*Responsive on laptop, mobile, tablet: changing flexwrap from nowrap to wrap*/
