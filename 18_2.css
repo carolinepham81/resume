@@ -271,6 +271,12 @@ table th {
 	}
 	#flex_container {
 		flex-wrap: wrap;
+	#left_menu {
+		flex: 100%;
+	}
+	#right_menu {
+		flex: 100%;
+	}
 	}
 	#flex_menu {
 		flex-wrap: wrap;
